@@ -7,7 +7,6 @@ Used Python version: 3.10
 Libraries will be in the future on: requirements.txt
 
 # Work that still needs to be done:
-    - Try to keep requirements.txt always updated
     - Increase dataset size, important because it's not enough
         - The output is too complex for this little images
     - Try to improve the code
