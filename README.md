@@ -4,7 +4,7 @@ Work in progress
 # Requirements
 Used Python version: 3.10
 
-Libraries will be in the future on: requirements.txt
+Used libraries  and versions are described on requirements.txt
 
 # Work that still needs to be done:
     - Increase dataset size, important because it's not enough
