@@ -10,6 +10,7 @@ Used libraries and versions are described on requirements.txt
     - Increase dataset size, important because it's not enough
         - The output is too complex for this little images
     - Try to improve the code
+    - Try different image resolutions/sizes
     - Try to run longer
     - Try different parameters and pretrained networks
     - Add testing process
