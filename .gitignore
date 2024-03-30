@@ -1,5 +1,7 @@
 /dataset
 /dataset_dirty
 /saved_model
+/dataset_S
+/dataset_split
 .DS_Store
 update_requirements.ipynb
